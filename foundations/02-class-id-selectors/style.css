@@ -1,0 +1,23 @@
+p{
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.fo{
+    font-size: 24px;
+}
+
+#snd{
+    color: blue; 
+    font-size: 36px;
+}
+
+#trd{
+    font-size: 36px;
+}
+
+#fth{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: hwb(120 56% 7%);
+}
