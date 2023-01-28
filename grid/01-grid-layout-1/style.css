@@ -53,4 +53,6 @@ body, html {
 
 .footer {
   background-color: #393f4d;
+  grid-column: 1 / 6;
+  grid-row: 5 / 6;
 }
