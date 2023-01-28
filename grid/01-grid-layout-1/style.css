@@ -22,10 +22,13 @@ body, html {
 
 .header {
   background-color: #FFDE22;
+  grid-column: 1 / 6;
+  grid-row: 1 / 2;
 }
 
 .sidebar {
   background-color: #FF7755;
+  
 }
 
 .nav {
